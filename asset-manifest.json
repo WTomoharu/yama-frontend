@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yama-frontend/static/css/main.324775be.chunk.css",
-    "main.js": "/yama-frontend/static/js/main.3a5f6e18.chunk.js",
-    "main.js.map": "/yama-frontend/static/js/main.3a5f6e18.chunk.js.map",
+    "main.js": "/yama-frontend/static/js/main.b62dc0ea.chunk.js",
+    "main.js.map": "/yama-frontend/static/js/main.b62dc0ea.chunk.js.map",
     "runtime-main.js": "/yama-frontend/static/js/runtime-main.71b5e143.js",
     "runtime-main.js.map": "/yama-frontend/static/js/runtime-main.71b5e143.js.map",
     "static/css/2.b4ebbe46.chunk.css": "/yama-frontend/static/css/2.b4ebbe46.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.b4ebbe46.chunk.css",
     "static/js/2.821094cc.chunk.js",
     "static/css/main.324775be.chunk.css",
-    "static/js/main.3a5f6e18.chunk.js"
+    "static/js/main.b62dc0ea.chunk.js"
   ]
 }
